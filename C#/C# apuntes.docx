@@ -1,0 +1,6 @@
+system {
+    public boy{
+        console.writeline.{"hola mundo"};
+        print.console;
+    }
+}

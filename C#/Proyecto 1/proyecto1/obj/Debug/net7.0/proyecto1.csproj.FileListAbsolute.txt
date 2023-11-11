@@ -1,0 +1,15 @@
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\bin\Debug\net7.0\proyecto1.exe
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\bin\Debug\net7.0\proyecto1.deps.json
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\bin\Debug\net7.0\proyecto1.runtimeconfig.json
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\bin\Debug\net7.0\proyecto1.dll
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\bin\Debug\net7.0\proyecto1.pdb
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.csproj.AssemblyReference.cache
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.AssemblyInfoInputs.cache
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.AssemblyInfo.cs
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.csproj.CoreCompileInputs.cache
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.dll
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\refint\proyecto1.dll
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.pdb
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\proyecto1.genruntimeconfig.cache
+c:\Users\jesqu\Desktop\vs code\C#\Proyecto 1\proyecto1\obj\Debug\net7.0\ref\proyecto1.dll

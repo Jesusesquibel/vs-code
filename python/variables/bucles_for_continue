@@ -1,0 +1,18 @@
+    # Continue 
+    
+frutas = ["platano","Manzana","carambolo","Durasno","naranja","ciruela"]
+
+for fruta in frutas:
+    if fruta == "Manzana":
+        continue
+    print(f'me voy a comer {fruta}')    
+    
+    
+# Comando Break 
+fruta2 = ["platano","Manzana","carambolo","Durasno","naranja","ciruela"]
+
+for fruta1 in fruta2:
+    if fruta1 == "carambolo":
+        break # lo que realiza Break es terminar la ejecucion cuando se cumple una sentencia 
+    print(f'estoy comiendo---{fruta1}')
+    
